@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/Evgen1983/blog_react/issues"
   },
-  "homepage": "https://github.com/Evgen1983/blog_react#readme"
+  "homepage": "https://github.com/Evgen1983/blog_react#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.24.1"
+  }
 }
